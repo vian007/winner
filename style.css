@@ -1,4 +1,19 @@
 .loginer{
 	margin: auto;
 	width: 240px;
+	line-height: 1.5;
+	font-family: '微软雅黑'；
+}
+.userlogin{
+	background-color: #cccccc;
+}
+.users{
+	text-align: center;
+}
+input{
+	width: 196px;
+}
+button{
+	border: none;
+	width: 116px;
 }
